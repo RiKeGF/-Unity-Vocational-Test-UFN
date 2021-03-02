@@ -1,0 +1,32 @@
+0 - Biomedicina
+1 - Enfermagem
+2 - Farmacia
+3 - Fisioterapia
+4 - Medicina
+5 - Nutricao
+6 - Odontologia
+7 - Filosofia
+8 - Historia
+9 - Letras
+10- Pedagodia
+11- Psicologia
+12- Administracao
+13- CienciasContabeis
+14- CienciasEconomicas
+15- Direito
+16- Jornalismo
+17- Publicidade
+18- Arquitetura
+19- CienciaComputacao
+20- Design
+21- DesignModa
+22- EngAmbiental
+23- EngBiomedica
+24- EngMateriais
+25- EngQuimica
+26- FisicaMedica
+27- JogosDigitais
+28- Matematica
+29- Radiologia
+30- SistemaInformacao
+31- Geografia

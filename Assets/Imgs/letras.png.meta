@@ -1,0 +1,883 @@
+fileFormatVersion: 2
+guid: 30cc6733be7e7b74f9b11b2a429d9858
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4853175238482782698
+    second: letras_0
+  - first:
+      213: 7087322626557052192
+    second: letras_2
+  - first:
+      213: 2064022059230696269
+    second: letras_3
+  - first:
+      213: 8377164081933424259
+    second: letras_5
+  - first:
+      213: -3558083792134617022
+    second: letras_7
+  - first:
+      213: 7264811531901525002
+    second: letras_8
+  - first:
+      213: 3548037390804370116
+    second: letras_10
+  - first:
+      213: -5523953050864535675
+    second: letras_12
+  - first:
+      213: 4119024632721485411
+    second: letras_14
+  - first:
+      213: 6196991665846486730
+    second: letras_16
+  - first:
+      213: 3686136161046204453
+    second: letras_18
+  - first:
+      213: 8771613214211865849
+    second: letras_19
+  - first:
+      213: -2340565061656716471
+    second: letras_21
+  - first:
+      213: 6607649468197226701
+    second: letras_23
+  - first:
+      213: 4784741174142756952
+    second: letras_24
+  - first:
+      213: -4815222736972608964
+    second: letras_26
+  - first:
+      213: 1801279722917899686
+    second: letras_28
+  - first:
+      213: 8812803315235345478
+    second: letras_30
+  - first:
+      213: 1867735536614774728
+    second: letras_31
+  - first:
+      213: 7070139627687350177
+    second: letras_33
+  - first:
+      213: 6278996870266794920
+    second: letras_35
+  - first:
+      213: -8100336380091895445
+    second: letras_36
+  - first:
+      213: -7575964973419344092
+    second: letras_38
+  - first:
+      213: -5121821228537562332
+    second: letras_40
+  - first:
+      213: -1861388653735297963
+    second: letras_42
+  - first:
+      213: -1297021610654847642
+    second: letras_43
+  - first:
+      213: -6329776859053333367
+    second: letras_45
+  - first:
+      213: 6240245521100514006
+    second: letras_47
+  - first:
+      213: -1648880805408361638
+    second: letras_49
+  - first:
+      213: 4370173558292846358
+    second: letras_51
+  - first:
+      213: 9198426423494591379
+    second: letras_53
+  - first:
+      213: -340498876463136383
+    second: letras_54
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: letras_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5800
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3995dd02d23634abb92893c6b3abfe
+      internalID: -4853175238482782698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5637
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b623a5051b63d9846bfad769371927a6
+      internalID: 7087322626557052192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5476
+        width: 1600
+        height: 130
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ee0323ca36202489d0af49be1c6a43
+      internalID: 2064022059230696269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5300
+        width: 1600
+        height: 104
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ee6900ef8ad264b9ea11209d6ceb49
+      internalID: 8377164081933424259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5137
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c440a4ff1f7de54fae1753f62f6472b
+      internalID: -3558083792134617022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4948
+        width: 1600
+        height: 156
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82213f8be92fa4845b932be4c9053363
+      internalID: 7264811531901525002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd38046670293154dace21efeca5a59e
+      internalID: 3548037390804370116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4610
+        width: 1600
+        height: 104
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8643914148c5424685fceaf604cc404
+      internalID: -5523953050864535675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4418
+        width: 1600
+        height: 129
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83fa72c34186cd499ec97f6b3af7eb1
+      internalID: 4119024632721485411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4225
+        width: 1600
+        height: 103
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee78e53cd455d542934f2708d5d3678
+      internalID: 6196991665846486730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4051
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33a9f63537efc44999531f3da297fc2
+      internalID: 3686136161046204453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3868
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f60d6adbfc8a4744a608950552ea733
+      internalID: 8771613214211865849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3680
+        width: 1600
+        height: 162
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e77131574eafa4785ca86f919c0ab2
+      internalID: -2340565061656716471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3534
+        width: 1600
+        height: 125
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c0d6c8d6477644bb0c0288352b2467
+      internalID: 6607649468197226701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3359
+        width: 1600
+        height: 131
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bb050909c20264e8f68617e96ca02f
+      internalID: 4784741174142756952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3194
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658b0cbbc7a634145857f82a99453d30
+      internalID: -4815222736972608964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3010
+        width: 1600
+        height: 108
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a3f44c01cbfb44baed4078d0027d92
+      internalID: 1801279722917899686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2842
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12664686a6fdf4e45bbfe0a4898b3933
+      internalID: 8812803315235345478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2670
+        width: 1600
+        height: 107
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ebcc250454c824f84d654737ca34e5
+      internalID: 1867735536614774728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2477
+        width: 1600
+        height: 172
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd656ccbe44f4b544a4999d1caa20125
+      internalID: 7070139627687350177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2339
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086ae4c3e36bffc4bbc660a4f6ea7623
+      internalID: 6278996870266794920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2175
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85aefd31f9c0e484e8e2e32dced05a5e
+      internalID: -8100336380091895445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4595c60c927684f4ab699290ee5346de
+      internalID: -7575964973419344092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1827
+        width: 1600
+        height: 137
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0664f28adbc21844f9c09ac36508bf5a
+      internalID: -5121821228537562332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638
+        width: 1600
+        height: 101
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1a41151f63ec846b040e574b189120
+      internalID: -1861388653735297963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1458
+        width: 1600
+        height: 143
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5941e638331a944ab4e668b3896b18
+      internalID: -1297021610654847642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1293
+        width: 1600
+        height: 138
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d581a66b548b194ebe5f438292a2a97
+      internalID: -6329776859053333367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1110
+        width: 1600
+        height: 105
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e69e7f07bb0c347a4a1a47feeaa12e
+      internalID: 6240245521100514006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 1600
+        height: 143
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e946ff3b34935d941a886206e5230cb9
+      internalID: -1648880805408361638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad13854073e037418ae85c639ea6ed5
+      internalID: 4370173558292846358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b88ddc01f28c64db7b93ffa63392e6
+      internalID: 9198426423494591379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: letras_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 371
+        width: 1600
+        height: 100
+      alignment: 4
+      pivot: {x: 0, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918b20be3588af542b50b6a02d18b7cd
+      internalID: -340498876463136383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
